@@ -10,5 +10,4 @@ function test(){
     } else {
         console.log("failed")
     }
-
 }
